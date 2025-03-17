@@ -32,7 +32,7 @@ const hero_content = {
     ],
     hero_title: <><span className='tp_title'><span className='child' >The Leading Apps & Website</span></span> <br />
         <span><span className='child pt-30' style={{margin:0}}>Development Agency</span></span> </>,
-    sub_title: <>We are not going to save your data</>,
+    sub_title: <></>,
     hero_shape_img: [
         {
             id: 1,
