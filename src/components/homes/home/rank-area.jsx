@@ -136,10 +136,7 @@ const RankArea = () => {
                            <h3 className="tp-section-title">{title}</h3>
                         </div>
                         <div className="tp-rank__btn wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".5s">
-                           <Link className="tp-btn tp-btn-hover alt-color-black" href="/service-details">
-                              <span>{btn_text}</span>
-                              <b></b>
-                           </Link>
+                          
                         </div>
                      </div>
                      <div className="col-xl-7 col-lg-7 order-0 order-lg-2">
