@@ -28,7 +28,7 @@ const ContactFormArea = () => {
                               <h5 className="inner-section-subtitle">{sub_title}</h5>
                               <h4 className="tp-section-title pb-10">{tilte}</h4>
                               <p>{info}</p>
-                              <Link href="tel:+1(902)9791041">+1 (902) 979 1041</Link>
+                              <Link href="tel:+917027690249">+91 70276 90249</Link>
                            </div>
                            <div className="contact-form-social-box p-relative">
                               <div className="contact-form-social-item">
