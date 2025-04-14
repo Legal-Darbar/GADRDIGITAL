@@ -22,13 +22,13 @@ const inner_content = {
     {
       id: 2,
       icon: icon_2,
-      title: "+1 (902) 979 1041",
-      link: "tel:+1(902)9791041",
+      title: "+91 70276 90249",
+      link: "tel:+917027690249",
     },
     {
       id: 3,
       icon: icon_3,
-      title: "297 rotary drive B1P 6L5 Sydney Nova Scotia",
+      title: "Phase III, Udyog Vihar, Sector 20, Gurugram, Haryana 122008",
       link: "",
     },
   ],
