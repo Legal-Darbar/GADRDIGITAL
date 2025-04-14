@@ -9,7 +9,7 @@ const faq_content = {
     sub_title: "Support",
     title: <>Frequently <br /> Asked Questions</>,
     description: <>Have a look on frequently asked questions <br /> by our clients.!</>,
-    btn_text: "+1 (902) 979 1041",
+    btn_text: "+91 70276 90249",
 }
 const {sub_title, title, description, btn_text }  = faq_content
 
@@ -30,7 +30,7 @@ const FaqArea = ({style_service}) => {
                            </div>
                            <div className="tp-faq-btn">
                               <Link className={`${style_service ? "tp-btn-inner tp-btn-hover alt-color-black" : "tp-btn-green"} `} 
-                                  href="tel:+1(902)9791041">
+                                  href="tel:+917027690249">
                                     {btn_text}
                               </Link>
                            </div>
