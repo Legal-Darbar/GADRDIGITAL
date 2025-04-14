@@ -48,7 +48,7 @@ const ServiceArea = () => {
                            <div className="tp-service-3-content">
                               <span>{service_title}</span>
                               <h4 className="tp-service-3-title-sm">
-                                 <Link href="tel:+1(902)9791041">{service_info}</Link></h4>
+                                 <Link href="tel:+917027690249">{service_info}</Link></h4>
                            </div>
                            {/*  <div className="tp-service-3-btn">
                               <Link className="tp-btn-white-solid" href="/contact">Learn More</Link>
@@ -68,7 +68,7 @@ const ServiceArea = () => {
                            </div>
                            <div className="tp-service-sm-content">
                               <span>{item.title}</span>
-                              <h3 className="tp-service-sm-title"><Link href="tel:+1(902)9791041">{item.description}</Link></h3>
+                              <h3 className="tp-service-sm-title"><Link href="tel:+917027690249">{item.description}</Link></h3>
   {/* <div className="tp-service-sm-link">
                                  <Link href="/contact">Learn More <i className="far fa-arrow-right"></i></Link>
                               </div> */}
