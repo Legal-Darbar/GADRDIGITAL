@@ -51,7 +51,7 @@ const ServicesArea = () => {
                                     <p>{item.description}</p>
                                 </div>
                                 <div className="tp-service__link">
-                                    <Link href="tel:+1(902)9791041">
+                                    <Link href="tel:+917027690249">
                                         <RightArrow /> 
                                     </Link>
                                 </div>
