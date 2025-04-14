@@ -53,7 +53,7 @@ const card_content = {
     title: <>Customized <span>App and Websites</span> </>,
     description: <>GADR Digital is a cutting-edge digital solutions company specializing in the design and development <br />
     f high-quality websites and mobile applications</>,
-    btn_text: "+1 (902) 979 1041"
+    btn_text: "+91 70276 90249"
 }
 const {card_images, title, description, btn_text}  = card_content
 
