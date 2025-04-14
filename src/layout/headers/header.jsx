@@ -60,8 +60,8 @@ const Header = () => {
                         </div>
                         <div className="col-6">
                            <div className="header-top__support text-end">
-                              <span>Get Support:   <Link href="tel:+1(902)9791041">
-                              +1 (902) 979-1041
+                              <span>Get Support:   <Link href="tel:+917027690249">
+                             +917027690249
                               </Link>    </span>
                           
                            </div>
@@ -101,7 +101,7 @@ const Header = () => {
                            </div> 
                            <div className="header-bottom__btn d-flex align-items-center">
                                  <Link className="tp-btn-white tp-btn-hover alt-color-black d-none d-md-inline-block" href="tel:+1(902)9791041">
-                                    <span className="white-text">1 (902) 979-1041</span>
+                                    <span className="white-text">+91 70276 90249</span>
                                     <b></b>
                                  </Link>
                                  <Link className="tp-btn-white tp-btn-hover alt-color-black d-none d-md-inline-block" href="/contact">
