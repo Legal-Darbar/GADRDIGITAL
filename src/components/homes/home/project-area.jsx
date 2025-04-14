@@ -87,7 +87,7 @@ const ProjectArea = () => {
                                           </div>
                                           <div className="tp-project__title-box">
                                              <h4 className="tp-project__title-sm">
-                                                <Link href="tel:+1(902)9791041">{item.title}</Link>
+                                                <Link href="tel:+917027690249">{item.title}</Link>
                                              </h4>
                                              <p>{item.description}</p>
                                           </div>
@@ -102,7 +102,7 @@ const ProjectArea = () => {
                                              </div>  */}
                                            
                                              <div className="tp-project__link">
-                                                <Link href="tel:+1(902)9791041">
+                                                <Link href="tel:+917027690249">
                                                    <RightArrow />
                                                 </Link>
                                              </div>
