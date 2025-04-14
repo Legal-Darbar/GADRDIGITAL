@@ -17,9 +17,9 @@ import { useIsomorphicLayoutEffect } from '@/src/hooks/useIsomorphicEffect';
 const footer_content  = {
     title: <>Get Our Latest's News <br /> & Updates</>,
     description: <>Our highly skilled development teams <br /> specialized in Apps and Website Development.</>,
-    phone: "+1 (902) 979-1041",
+    phone: "+91 70276 90249",
     contact_mail: "support@gadrdigital.com",
-    location: "297 rotary drive B1P 6L5,Sydney Nova Scotia" ,
+    location: "" ,
     location2:"Phase III, Udyog Vihar, Sector 20, Gurugram, Haryana 122008",
 
     copy_right: <> All Rights Reserved By <Link href="#">Gadr Digital</Link> – 2017 to {new Date().getFullYear()}</>,
